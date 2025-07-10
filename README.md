@@ -26,7 +26,6 @@ Brute-force a given SHA256 hash using a wordlist (`rockyou.txt`) and Python scri
 
 2. **Prepare the Wordlist**  
    - Ensure `rockyou.txt` is available in your working directory.  
-   - (Optional) Decompress it from Kali Linux default path:  
      ```bash
      gunzip /usr/share/wordlists/rockyou.txt.gz
      ```
