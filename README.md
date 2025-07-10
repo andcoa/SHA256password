@@ -12,7 +12,9 @@ Brute-force a given SHA256 hash using a wordlist (`rockyou.txt`) and Python scri
 - **Command-Line Tool Design**: Built and tested a CLI tool with argument validation and user feedback using `sys.argv` and `pwntools.log`.
 
 ## Tools Used  
-**Python** · **pwntools** · **rockyou.txt** · **SHA256** · **Linux Terminal**
+- **Python** 
+- **pwntools**
+- **Linux Terminal**
 
 ## Steps
 
