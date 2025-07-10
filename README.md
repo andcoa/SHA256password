@@ -19,18 +19,15 @@ Brute-force a given SHA256 hash using a wordlist (`rockyou.txt`) and Python scri
 ## Steps
 
 1. **Set Up Environment**  
-   - Install Python and `pwntools`:  
+   - Installed Python and `pwntools`:  
      ```bash
      pip install pwntools
      ```
 
-2. **Prepare the Wordlist**  
-   - Ensure `rockyou.txt` is available in your working directory.  
-     ```bash
-     gunzip /usr/share/wordlists/rockyou.txt.gz
-     ```
+2. **Prepared the Wordlist**  
+   - Ensured `rockyou.txt` is available in the working directory.  
 
-3. **Run the Script**  
+3. **Ran the Script**  
    - Usage:  
      ```bash
      python3 sha256_cracker.py <sha256_hash>
