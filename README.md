@@ -16,6 +16,8 @@ Brute-force a given SHA256 hash using a wordlist (`rockyou.txt`) and Python scri
 - **pwntools**
 - **Linux Terminal**
 
+⚠️ Note: This script is for educational and ethical penetration testing purposes only, and should not be used against any system without explicit authorization.
+
 ## Steps
 
 1. **Set Up Environment**  
