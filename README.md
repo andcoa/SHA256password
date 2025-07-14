@@ -48,7 +48,7 @@ Tested the script by getting the sha256 sum of the plaintext word "python" as it
 
 Result:
 
-Uses log.progress to iterate each line in the rockyou.txt file, with each line cleaning up the string and calculating the sha256 hash sum of htat string and comparing it with the unknown input. When the hash is matched, the input is then printed to the screen.
+Uses log.progress to iterate each line in the rockyou.txt file, with each line cleaning up the string and calculating the sha256 hash sum of that string and comparing it with the unknown input. When the hash is matched, the input is then printed to the screen.
 
 <img width="988" height="277" alt="image" src="https://github.com/user-attachments/assets/90a5dc7f-6429-4446-a50f-27ff26c0c055" />
 
